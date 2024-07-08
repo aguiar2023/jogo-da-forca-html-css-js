@@ -1,0 +1,26 @@
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#boneco {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+#boneco > div {
+    background-color: black;
+    display: none;
+}
+
+#letra-chute {
+    margin-top: 20px;
+}
+
+#mensagem-jogo {
+    font-weight: bold;
+    margin-top: 20px;
+}
